@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "Jai",
+      "password": "Jai123",
+      "profile": {
+        "name": "Jai Verma",
+        "email": "jai@gmail.com.com"
+      },
+      "todos": [
+        {
+          "id": 1,
+          "title": "Buy groceries",
+          "subTasks": [
+            {
+              "id": 1,
+              "title": "Milk"
+            },
+            {
+              "id": 2,
+              "title": "Eggs"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Walk the dog"
+        }
+      ]
+    }
+  ]
+}

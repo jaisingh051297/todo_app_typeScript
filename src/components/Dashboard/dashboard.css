@@ -1,0 +1,67 @@
+.Dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button_style{
+    width: 200px;
+    background-color: #262036;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .avatar{
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 15px;
+  }
+
+  .input{
+    font-size: 20px;
+    width: 150px;
+    padding: 5px 20px;
+    margin: 20px;
+  }
+
+  .Add__todo{
+    width: 150px;
+    background-color: #262036;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .Remove__subTodo{
+    width: 120px;
+    background-color: #ef69ac;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    margin: 15px;
+    cursor: pointer;
+  }
+
+  .Add__subTodo{
+    width: 120px;
+    background-color: #262036;
+    color: rgb(240, 237, 237);
+    font-weight: bold;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
