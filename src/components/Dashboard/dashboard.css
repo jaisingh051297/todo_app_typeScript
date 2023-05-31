@@ -15,6 +15,7 @@
     padding: 15px 20px;
     border-radius: 5px;
     cursor: pointer;
+    
   }
   .avatar{
     width: 34px;
@@ -25,43 +26,43 @@
   }
 
   .input{
-    font-size: 20px;
-    width: 150px;
-    padding: 5px 20px;
-    margin: 20px;
+    font-size: 15px;
+    width: 130px;
+    padding: 5px 10px;
+    margin: 16px;
   }
 
   .Add__todo{
-    width: 150px;
+    width: 140px;
     background-color: #262036;
     color: white;
     font-weight: bold;
     border: none;
-    padding: 15px;
+    padding: 13px;
     border-radius: 5px;
     margin: 5px;
     cursor: pointer;
   }
   
   .Remove__subTodo{
-    width: 120px;
+    width: 110px;
     background-color: #ef69ac;
     color: rgb(8, 8, 8);
     font-weight: bold;
     border: none;
-    padding: 12px;
+    padding: 8px;
     border-radius: 5px;
-    margin: 15px;
+    margin: 10px;
     cursor: pointer;
   }
 
   .Add__subTodo{
-    width: 120px;
+    width: 110px;
     background-color: #262036;
     color: rgb(240, 237, 237);
     font-weight: bold;
     border: none;
-    padding: 12px;
+    padding: 8px;
     border-radius: 5px;
     cursor: pointer;
   }

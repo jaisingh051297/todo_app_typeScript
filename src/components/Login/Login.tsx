@@ -2,7 +2,9 @@ import React, { useState, useContext } from 'react';
 import {Navigate } from 'react-router-dom';
 import { AuthContext, User } from '../../context/AuthContext';
 import usersData from '../../data/users.json' ;
-import '../Login/login.css'
+import '../Login/login.css';
+
+
 const Login: React.FC = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
