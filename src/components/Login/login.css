@@ -28,9 +28,11 @@
     cursor: pointer;
   }
 
-.input{
-    width: 200px;
+.input1{
+    font-size: 18px;
+    width: 180px;
     padding: 15px 20px;
     margin-bottom: 20px;
+    border-radius: 10px;
   }
   
